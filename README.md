@@ -1,2 +1,1 @@
 # termux.nvim
-# termux.nvim
